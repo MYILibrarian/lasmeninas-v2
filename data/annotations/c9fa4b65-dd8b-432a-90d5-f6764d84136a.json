@@ -1,5 +1,54 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 17,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las Meninas, painted by Diego Velázquez, can be found the Museo del Prado in Madrid, Spain"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea0315d3-2f30-43fc-965e-7c898bb1fbc7"
+    },
+    {
+      "start_time": 83,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Thirty Years' War (1618–1648) was a series of conflicts across Europe driven by religious, dynastic, territorial, and commercial rivalries. The war's widespread devastation reshaped the European map, culminating in the Treaty of Westphalia in 1648.\nSpain, a significant player in this conflict, faced considerable losses. Initially, the war was a religious struggle within the Holy Roman Empire, but it expanded as various powers pursued their ambitions. Spain, aligned with the Catholic Habsburgs, aimed to maintain its dominance in Europe. However, the prolonged conflict drained its resources and weakened its influence.\nBy the war's end, Spain had lost the Netherlands and its preeminent position in Western Europe. France emerged as the leading Western power, and the United Netherlands gained recognition as an independent republic. The Treaty of Westphalia granted full sovereignty to the member states of the Holy Roman Empire, marking the end of Spain's dominance and the rise of a new European order based on sovereign states.\nThirty Years’ War | Summary, Causes, Combatants, Map, & Significance. (2024, October 22). Britannica. https://www.britannica.com/event/Thirty-Years-War"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eda0dc02-60b4-4d49-a6a5-d694cdfccff0"
+    },
+    {
+      "start_time": 114,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Margarita Teresa was between four and five years old when Velázquez painted Las Meninas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b5c1cf59-c7aa-4430-9702-edf38dd30014"
+    }
+  ],
   "set": "Default",
   "event_id": "4d53e7b5-b384-48b0-aa7b-cb4cea195fc3",
   "source_id": "6205c60d-3981-4f68-891b-6bbd7c7255fe"
